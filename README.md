@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hello!👋 I am Shreya Shrestha,
 
-<!--
-**shreya2057/shreya2057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am currently studying BSc.CS at Kathmandu University.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
