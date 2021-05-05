@@ -8,7 +8,5 @@ I am currently working on flutter projects, web development and blogging.
 :nerd_face: I love reading novel and many other books. 
 
 
-## Connect me at 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+## Connect me at  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shreya-shrestha-a66a3719a/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
