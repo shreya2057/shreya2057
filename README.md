@@ -1,4 +1,5 @@
-### Hello!👋 I am Shreya Shrestha,
+### Hey everyone!!!! :wave: :wave:
+I am Shreya Shrestha,
 
 I am currently studying BSc.CS at Kathmandu University.
 
