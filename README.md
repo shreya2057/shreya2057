@@ -1,6 +1,6 @@
 # Hey everyone!!!! :wave: :wave:
 
-My name is Shreya Shrestha.:smile::smile: I am front end developer from Nepal. I am currently living in Kathmandu. 
+My name is **Shreya Shrestha**.:smile::smile: I am front end developer from Nepal. I am currently living in Kathmandu. 
 I am currently working on flutter projects, web development and blogging. 
 
 :book: Currently BSc Sc student at Kathmandu University, Dhulikhel Nepal.
@@ -8,4 +8,7 @@ I am currently working on flutter projects, web development and blogging.
 :nerd_face: I love reading novel and many other books. 
 
 
-Connect me at 
+## Connect me at 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
