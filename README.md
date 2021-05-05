@@ -1,5 +1,6 @@
 ### Hey everyone!!!! :wave: :wave:
-I am Shreya Shrestha,
+
+My name is Shreya Shrestha.:smile::smile: I am front end developer from Nepal. I am currently living in Kathmandu. 
 
 I am currently studying BSc.CS at Kathmandu University.
 
