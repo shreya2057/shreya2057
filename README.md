@@ -21,7 +21,7 @@ I am currently working on flutter projects and web development.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-
+<hr/>
 
 ## Want to connect with me?
 
@@ -29,3 +29,9 @@ Please feel free to reach out to me. :smile:
 
 [![LinkedIn](https://img.shields.io/badge/Shreya_Shrestha-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-shrestha-a66a3719a/)&nbsp; &nbsp; [![Gmail](https://img.shields.io/badge/shreya2057@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreya2057@gmail.com)
  
+
+ <hr/>
+
+ 
+
+ ![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreya2057&hide=stars,issues&show_icons=true&theme=radical)
