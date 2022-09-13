@@ -40,7 +40,7 @@ Please feel free to reach out to me. :smile:
     <a href="mailto:shreya2057@gmail.com" class="items"><img src="Badges/../Bagdes/contacts/Github.png"/></a>
     <a href="mailto:shreya2057@gmail.com" class="items"><img src="Badges/../Bagdes/contacts/Dribble.png"/></a>
     <a href="mailto:shreya2057@gmail.com" class="items"><img src="Badges/../Bagdes/contacts/Facebook.png"/></a>
-    <a href="mailto:shreya2057@gmail.com" class="items"><img src="Badges/../Bagdes/contacts/Facebook.png"/></a>
+    <a href="mailto:shreya2057@gmail.com" class="items"><img src="Badges/../Bagdes/contacts/Twitter.png"/></a>
     <a href="mailto:shreya2057@gmail.com" class="items"><img src="Badges/../Bagdes/contacts/Instagram.png"/></a>
 </div>
 
