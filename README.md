@@ -28,24 +28,24 @@ I am currently working on flutter projects and web development.
 
 <!-- Contact -->
 
-## Want to connect with me?
+## Connect with me
 
-<div class="contactInfo">
+<div align="center">
     <a href="mailto:shreya2057@gmail.com">
         <img src="Badges/../Bagdes/contacts/Gmail.png"/>
     </a>
-    <a href="#">
+    &nbsp; &nbsp;
+    <a href="https://www.linkedin.com/in/iamshreyastha/">
         <img src="Badges/../Bagdes/contacts/LinkedIn.png"/>
     </a>
+    &nbsp; &nbsp;
     <a href="#">
-        <img src="Badges/../Bagdes/contacts/Github.png"/>
-    </a>
-    <a href="mailto:shreya2057@gmail.com">
         <img src="Badges/../Bagdes/contacts/Dribble.png"/>
     </a>
-    <a href="mailto:shreya2057@gmail.com" class="items"><img src="Badges/../Bagdes/contacts/Facebook.png"/></a>
-    <a href="mailto:shreya2057@gmail.com" class="items"><img src="Badges/../Bagdes/contacts/Twitter.png"/></a>
-    <a href="mailto:shreya2057@gmail.com" class="items"><img src="Badges/../Bagdes/contacts/Instagram.png"/></a>
+    &nbsp; &nbsp;
+    <a href="https://twitter.com/iamshreyastha" class="items">
+        <img src="Badges/../Bagdes/contacts/Twitter.png"/>
+    </a>
 </div>
 
  <hr/>
