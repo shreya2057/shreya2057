@@ -1,0 +1,8 @@
+.contactInfo{
+    display: block;
+}
+
+.items{
+    display: inline-block;
+    margin: 10px;
+}

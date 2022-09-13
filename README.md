@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="styles/contact.css">
 # Hello!!!! :wave: :wave:
 
 My name is **Shreya Shrestha**.:smile::smile: I am front end developer from Nepal. I am currently living in Kathmandu. 
@@ -23,17 +25,32 @@ I am currently working on flutter projects and web development.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+
 <hr/>
+
+<!-- Contact -->
 
 ## Want to connect with me?
 
 Please feel free to reach out to me. :smile:
 
-[![LinkedIn](https://img.shields.io/badge/Shreya_Shrestha-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-shrestha-a66a3719a/)&nbsp; &nbsp; [![Gmail](https://img.shields.io/badge/shreya2057@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreya2057@gmail.com)
- 
+<div class="contactInfo">
+    <a href="mailto:shreya2057@gmail.com" class="items"><img src="Badges/../Bagdes/contacts/Gmail.png"/></a>
+    <a href="[mailto:shreya2057@gmail.com](https://www.linkedin.com/in/shreya-shrestha-a66a3719a/)" class="items"><img src="Badges/../Bagdes/contacts/LinkedIn.png"/></a>
+    <a href="mailto:shreya2057@gmail.com" class="items"><img src="Badges/../Bagdes/contacts/Github.png"/></a>
+    <a href="mailto:shreya2057@gmail.com" class="items"><img src="Badges/../Bagdes/contacts/Dribble.png"/></a>
+    <a href="mailto:shreya2057@gmail.com" class="items"><img src="Badges/../Bagdes/contacts/Facebook.png"/></a>
+    <a href="mailto:shreya2057@gmail.com" class="items"><img src="Badges/../Bagdes/contacts/Twitter.png"/></a>
+    <a href="mailto:shreya2057@gmail.com" class="items"><img src="Badges/../Bagdes/contacts/Instagram.png"/></a>
+</div>
 
  <hr/>
 
- 
+<div class="container">
+    <img src="https://cdn-images-1.medium.com/max/30/1*5-aoK8IBmXve5whBQM90GA.png">
+    <span class="content">shreya</span>
+</div>
+
+
 
  ![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreya2057&hide=stars,issues&show_icons=true&theme=radical)
