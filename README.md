@@ -1,5 +1,17 @@
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="styles/contact.css">
+
+<style>
+    .contactInfo{
+    display: block;
+}
+
+.items{
+    display: inline-block;
+    margin: 5%;
+    border: 1px solid green;
+}
+</style>
 # Hello!!!! :wave: :wave:
 
 My name is **Shreya Shrestha**.:smile::smile: I am front end developer from Nepal. I am currently living in Kathmandu. 
