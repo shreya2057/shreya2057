@@ -32,11 +32,21 @@ I am currently working on flutter projects and web development.
 
 Please feel free to reach out to me. :smile:
 
+[text](contact.md)
+
 <div class="contactInfo">
-    <a href="mailto:shreya2057@gmail.com" class="items"><img src="Badges/../Bagdes/contacts/Gmail.png"/></a>
-    <a href="[mailto:shreya2057@gmail.com](https://www.linkedin.com/in/shreya-shrestha-a66a3719a/)" class="items"><img src="Badges/../Bagdes/contacts/LinkedIn.png"/></a>
-    <a href="mailto:shreya2057@gmail.com" class="items" style="border:1px green solid"><img src="Badges/../Bagdes/contacts/Github.png"/></a>
-    <a href="mailto:shreya2057@gmail.com" class="items"><img src="Badges/../Bagdes/contacts/Dribble.png"/></a>
+    <a href="mailto:shreya2057@gmail.com">
+        <img src="Badges/../Bagdes/contacts/Gmail.png"/>
+    </a>
+    <a href="#">
+        <img src="Badges/../Bagdes/contacts/LinkedIn.png"/>
+    </a>
+    <a href="#">
+        <img src="Badges/../Bagdes/contacts/Github.png"/>
+    </a>
+    <a href="mailto:shreya2057@gmail.com">
+        <img src="Badges/../Bagdes/contacts/Dribble.png"/>
+    </a>
     <a href="mailto:shreya2057@gmail.com" class="items"><img src="Badges/../Bagdes/contacts/Facebook.png"/></a>
     <a href="mailto:shreya2057@gmail.com" class="items"><img src="Badges/../Bagdes/contacts/Twitter.png"/></a>
     <a href="mailto:shreya2057@gmail.com" class="items"><img src="Badges/../Bagdes/contacts/Instagram.png"/></a>
