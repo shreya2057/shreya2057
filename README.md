@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="style.css">
-<link rel="stylesheet" href="styles/contact.css">
 # Hello!!!! :wave: :wave:
 
 My name is **Shreya Shrestha**.:smile::smile: I am front end developer from Nepal. I am currently living in Kathmandu. 
@@ -45,12 +43,5 @@ Please feel free to reach out to me. :smile:
 </div>
 
  <hr/>
-
-<div class="container">
-    <img src="https://cdn-images-1.medium.com/max/30/1*5-aoK8IBmXve5whBQM90GA.png">
-    <span class="content">shreya</span>
-</div>
-
-
 
  ![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreya2057&hide=stars,issues&show_icons=true&theme=radical)
