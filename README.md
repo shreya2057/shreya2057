@@ -30,10 +30,6 @@ I am currently working on flutter projects and web development.
 
 ## Want to connect with me?
 
-Please feel free to reach out to me. :smile:
-
-[text](contact.md)
-
 <div class="contactInfo">
     <a href="mailto:shreya2057@gmail.com">
         <img src="Badges/../Bagdes/contacts/Gmail.png"/>
