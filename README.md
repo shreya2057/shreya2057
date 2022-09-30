@@ -1,6 +1,7 @@
 # Hello!!!! :wave: :wave:
 
-My name is **Shreya Shrestha**.:smile::smile: I am front end developer from Kathmandu, Nepal. I have been working on flutter projects and web development projects.
+My name is **Shreya Shrestha**. 
+:smile::smile: I am front end developer from Kathmandu, Nepal. I have been working on flutter projects and web development projects.
 
 :book: Currently studying BSc.CS at Kathmandu University, Dhulikhel Nepal.
 
