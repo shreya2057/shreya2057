@@ -1,8 +1,14 @@
+<img src="CoverImage.png"/>
+<br/>
+<br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Exo&size=24&color=DD0B78&lines=Hello,+I+am+Shreya+Shrestha;Welcome+to+my+profile+!!!)
+
 # Hello!!!! :wave: :wave:
 
-My name is **Shreya Shrestha**.:smile::smile: I am front end developer from Kathmandu, Nepal. I have been working on flutter projects and web development projects.
+My name is **Shreya Shrestha**.:smile::smile: I am a developer from Kathmandu, Nepal. I have been working on flutter projects and web development projects.
 
-:book: Currently studying BSc.CS at Kathmandu University, Dhulikhel Nepal.
+:book: Studied BSc.CS at Kathmandu University, Dhulikhel Nepal.
 
 :nerd_face: I love reading novel.
 
@@ -16,20 +22,9 @@ My name is **Shreya Shrestha**.:smile::smile: I am front end developer from Kath
 
 <hr/>
 
-## :computer: Skills: 
+## :computer: Tools and technologies: 
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
+![Dart](https://img.shields.io/badge/dart-%2320232a.svg?style=for-the-badge&logo=dart&logoColor=%2361DAFB) &nbsp;&nbsp;&nbsp;&nbsp; ![Flutter](https://img.shields.io/badge/Flutter-%2320232a.svg?style=for-the-badge&logo=Flutter&logoColor=%2361DAFB) &nbsp;&nbsp;&nbsp;&nbsp;![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;&nbsp;&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=1572B6) &nbsp;&nbsp;&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26) &nbsp;&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;&nbsp;&nbsp;&nbsp;![Figma](https://img.shields.io/badge/Figma-%2320232a?style=for-the-badge&logo=figma&logoColor=FF61F6) &nbsp;&nbsp;&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/MySQL-%2320232a?style=for-the-badge&logo=mysql&logoColor=%2361DAFB) &nbsp;&nbsp;&nbsp;&nbsp;![Firebase](https://img.shields.io/badge/Firebase-%2320232a?style=for-the-badge&logo=firebase&logoColor=yellow) &nbsp;&nbsp;&nbsp;&nbsp;![Snowflake](https://img.shields.io/badge/Snowflake-%2320232a?style=for-the-badge&logo=snowflake&logoColor=%2361DAFB)
 
 <hr/>
 
