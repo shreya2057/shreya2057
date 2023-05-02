@@ -1,6 +1,5 @@
 <img src="CoverImage.png"/>
 <br/>
-<br/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Exo&size=24&color=DD0B78&lines=Hello,+I+am+Shreya+Shrestha;Welcome+to+my+profile+!!!)
 
