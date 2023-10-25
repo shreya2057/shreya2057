@@ -1,7 +1,7 @@
 <img src="CoverImage.png"/>
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Exo&size=24&color=1844FBFF&weight=700&lines=Hello,+I+am+Shreya+Shrestha;Welcome+to+my+profile+!!!)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Exo&size=24&color=1367FBFF&weight=700&lines=Hello,+I+am+Shreya+Shrestha;Welcome+to+my+profile+!!!)
 
 # Hello!!!! :wave: :wave:
 
@@ -20,6 +20,8 @@ I am **Shreya Shrestha** from Kathmandu Nepal. :smile::smile:
 
 :nerd_face: I love reading novel.
 
+<br/>
+
 ## :computer: Skills 
 
 <p>
@@ -28,6 +30,8 @@ I am **Shreya Shrestha** from Kathmandu Nepal. :smile::smile:
 <p>
     <img src="https://skillicons.dev/icons?i=tailwind,firebase,dart,flutter,mysql" />
 </p>
+
+<br/>
 
 ## :computer: Additional Skills
 
@@ -41,37 +45,38 @@ I am **Shreya Shrestha** from Kathmandu Nepal. :smile::smile:
 <br/>
 ![Snowflake](https://img.shields.io/badge/Snowflake-%2320232a?style=for-the-badge&logo=snowflake&logoColor=%2361DAFB) 
 
+<br/>
+
 ## :computer: Tools
 
 <p>
     <img src="https://skillicons.dev/icons?i=vscode,git,figma" />
 </p>
 
-<hr/>
+
+<br/>
 
 <!-- Contact -->
 
 ## Connect with me
 
-<div align="center">
-    <a href="mailto:shreya2057@gmail.com">
-        <img src="Badges/../Bagdes/contacts/Gmail.png"/>
-    </a>
-    &nbsp; &nbsp;
+<p>
     <a href="https://www.linkedin.com/in/iamshreyastha/">
-        <img src="Badges/../Bagdes/contacts/LinkedIn.png"/>
+        <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
-    &nbsp; &nbsp;
-    <a href="https://twitter.com/iamshreyastha" class="items">
-        <img src="Badges/../Bagdes/contacts/Twitter.png"/>
+</p>
+<p>
+    <a href="https://twitter.com/iamshreyastha">
+        <img src="https://skillicons.dev/icons?i=twitter" />
     </a>
-</div>
+</p>
 
- <hr/>
+<br/>
 
- <br/>
 
- <div align="center">
-
- ![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreya2057&hide=stars,issues&show_icons=true&theme=radical)
- </div>
+## Contact me
+<p>
+    <a href="mailto:shreyashrestha2k57@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" />
+    </a>
+</p>
