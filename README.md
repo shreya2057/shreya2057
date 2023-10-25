@@ -64,9 +64,6 @@ I am **Shreya Shrestha** from Kathmandu Nepal. :smile::smile:
     <a href="https://www.linkedin.com/in/iamshreyastha/">
         <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
-    <a href="https://twitter.com/iamshreyastha">
-        <img src="https://skillicons.dev/icons?i=twitter" />
-    </a>
 </p>
 
 <br/>
