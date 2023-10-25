@@ -1,11 +1,11 @@
 <img src="CoverImage.png"/>
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Exo&size=24&color=DD0B78&lines=Hello,+I+am+Shreya+Shrestha;Welcome+to+my+profile+!!!)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Exo&size=24&color=36BCF7FF&weight=700&lines=Hello,+I+am+Shreya+Shrestha;Welcome+to+my+profile+!!!)
 
 # Hello!!!! :wave: :wave:
 
-My name is **Shreya Shrestha**.:smile::smile: from Kathmandu Nepal.
+I am **Shreya Shrestha** from Kathmandu Nepal. :smile::smile: 
 
 ## Description
 :computer: I am a front-end developer with a strong understanding of HTML, CSS, CSS frameworks, JavaScript, and React, who is passionate about continuous learning of new technologies and proficient in creating responsive user interfaces.
