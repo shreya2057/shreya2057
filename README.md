@@ -5,15 +5,21 @@
 
 # Hello!!!! :wave: :wave:
 
-My name is **Shreya Shrestha**.:smile::smile: I am a data analyst from Kathmandu, Nepal. I also have  worked on flutter projects and web development projects.
+My name is **Shreya Shrestha**.:smile::smile: from Kathmandu Nepal.
+
+## Description
+:computer: I am a front-end developer with a strong understanding of HTML, CSS, CSS frameworks, JavaScript, and React, who is passionate about continuous learning of new technologies and proficient in creating responsive user interfaces.
+
+:computer: I also possess knowledge of Oracle BI Publisher and SQL, enabling me to generate Excel and RTF reports.
+
+:mobile: Additionally, I have also worked on Flutter projects.
 
 :book: Studied BSc.CS at Kathmandu University, Dhulikhel Nepal.
 
 :nerd_face: I love reading novel.
 
-:computer: Currently I am working as Software Intern at LIS Nepal
+:computer: Worked as Software Intern at LIS Nepal
 
-:smile: Coding is fun
 <br/>
 <br/>
 
@@ -21,10 +27,38 @@ My name is **Shreya Shrestha**.:smile::smile: I am a data analyst from Kathmandu
 
 <hr/>
 
-## :computer: Tools and technologies: 
+## :computer: Skills: 
 
-![Oracle](https://img.shields.io/badge/Oracle-%2320232a?style=for-the-badge&logo=Oracle&logoColor=white) 
- &nbsp;&nbsp;&nbsp;&nbsp;![PL/SQL](https://img.shields.io/badge/PL/SQL-%2320232a?style=for-the-badge&logo=oracle&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;![BI Publisher](https://img.shields.io/badge/BIPublisher-%2320232a?style=for-the-badge&logo=oracle&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;![OracleBusinessIntelligence](https://img.shields.io/badge/OBIEE-%2320232a?style=for-the-badge&logo=oracle&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp;![Dart](https://img.shields.io/badge/dart-%2320232a.svg?style=for-the-badge&logo=dart&logoColor=%2361DAFB) &nbsp;&nbsp;&nbsp;&nbsp; ![Flutter](https://img.shields.io/badge/Flutter-%2320232a.svg?style=for-the-badge&logo=Flutter&logoColor=%2361DAFB) &nbsp;&nbsp;&nbsp;&nbsp;![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;&nbsp;&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=1572B6) &nbsp;&nbsp;&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26) &nbsp;&nbsp;&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;&nbsp;&nbsp;&nbsp;![Figma](https://img.shields.io/badge/Figma-%2320232a?style=for-the-badge&logo=figma&logoColor=FF61F6) &nbsp;&nbsp;&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/MySQL-%2320232a?style=for-the-badge&logo=mysql&logoColor=%2361DAFB) &nbsp;&nbsp;&nbsp;&nbsp;![Firebase](https://img.shields.io/badge/Firebase-%2320232a?style=for-the-badge&logo=firebase&logoColor=yellow) &nbsp;&nbsp;&nbsp;&nbsp;![Snowflake](https://img.shields.io/badge/Snowflake-%2320232a?style=for-the-badge&logo=snowflake&logoColor=%2361DAFB) 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,firebase,dart,flutter,mysql" />
+  </a>
+</p>
+
+#### :computer: Additional Skills
+
+![Oracle](https://img.shields.io/badge/Oracle-%2320232a?style=for-the-badge&logo=Oracle&logoColor=white&margin=10px)
+<br/>
+![PL/SQL](https://img.shields.io/badge/PL/SQL-%2320232a?style=for-the-badge&logo=oracle&logoColor=white) 
+<br/>
+![BI Publisher](https://img.shields.io/badge/BIPublisher-%2320232a?style=for-the-badge&logo=oracle&logoColor=white) 
+<br/>
+![OracleBusinessIntelligence](https://img.shields.io/badge/OBIEE-%2320232a?style=for-the-badge&logo=oracle&logoColor=white) 
+<br/>
+![Snowflake](https://img.shields.io/badge/Snowflake-%2320232a?style=for-the-badge&logo=snowflake&logoColor=%2361DAFB) 
+
+## :computer: Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,figma" />
+  </a>
+</p>
 
 <hr/>
 
