@@ -20,24 +20,16 @@ My name is **Shreya Shrestha**.:smile::smile: from Kathmandu Nepal.
 
 :office: Worked as Software Intern at LIS Nepal
 
-<br/>
-<br/>
-
-
 ## :computer: Skills: 
 
-<p align="center">
-  <a href="https://skillicons.dev">
+<p>
     <img src="https://skillicons.dev/icons?i=html,css,js,react,redux" />
-  </a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
+<p>
     <img src="https://skillicons.dev/icons?i=tailwind,firebase,dart,flutter,mysql" />
-  </a>
 </p>
 
-### :computer: Additional Skills
+## :computer: Additional Skills
 
 ![Oracle](https://img.shields.io/badge/Oracle-%2320232a?style=for-the-badge&logo=Oracle&logoColor=white&margin=10px)
 <br/>
