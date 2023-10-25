@@ -1,7 +1,7 @@
 <img src="CoverImage.png"/>
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Exo&size=24&color=36BCF7FF&weight=700&lines=Hello,+I+am+Shreya+Shrestha;Welcome+to+my+profile+!!!)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Exo&size=24&color=1844FBFF&weight=700&lines=Hello,+I+am+Shreya+Shrestha;Welcome+to+my+profile+!!!)
 
 # Hello!!!! :wave: :wave:
 
@@ -16,11 +16,11 @@ I am **Shreya Shrestha** from Kathmandu Nepal. :smile::smile:
 
 :book: Studied BSc.CS at Kathmandu University, Dhulikhel Nepal.
 
+:office: Worked as Software Intern at LIS Nepal.
+
 :nerd_face: I love reading novel.
 
-:office: Worked as Software Intern at LIS Nepal
-
-## :computer: Skills: 
+## :computer: Skills 
 
 <p>
     <img src="https://skillicons.dev/icons?i=html,css,js,react,redux" />
@@ -43,10 +43,8 @@ I am **Shreya Shrestha** from Kathmandu Nepal. :smile::smile:
 
 ## :computer: Tools
 
-<p align="center">
-  <a href="https://skillicons.dev">
+<p>
     <img src="https://skillicons.dev/icons?i=vscode,git,figma" />
-  </a>
 </p>
 
 <hr/>
