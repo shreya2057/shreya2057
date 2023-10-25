@@ -72,6 +72,6 @@ I am **Shreya Shrestha** from Kathmandu Nepal. :smile::smile:
 ## Contact me
 <p>
     <a href="mailto:shreyashrestha2k57@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" />
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </p>
