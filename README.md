@@ -12,7 +12,7 @@ My name is **Shreya Shrestha**.:smile::smile: from Kathmandu Nepal.
 
 :computer: I also possess knowledge of Oracle BI Publisher and SQL, enabling me to generate Excel and RTF reports.
 
-:mobile: Additionally, I have also worked on Flutter projects.
+:phone: Additionally, I have also worked on Flutter projects.
 
 :book: Studied BSc.CS at Kathmandu University, Dhulikhel Nepal.
 
@@ -23,9 +23,6 @@ My name is **Shreya Shrestha**.:smile::smile: from Kathmandu Nepal.
 <br/>
 <br/>
 
-![Coding](Bagdes/emoji/Have%20fun.png) 
-
-<hr/>
 
 ## :computer: Skills: 
 
