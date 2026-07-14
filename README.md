@@ -1,4 +1,4 @@
-<img src="cover.png"/>
+<img src="flex.png"/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Exo&size=24&color=1367FBFF&weight=700&lines=Hello,+I+am+Shreya+Shrestha;Welcome+to+my+profile+!!!)
 
