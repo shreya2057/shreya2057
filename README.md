@@ -1,77 +1,55 @@
 <img src="cover.png"/>
-<br/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Exo&size=24&color=1367FBFF&weight=700&lines=Hello,+I+am+Shreya+Shrestha;Welcome+to+my+profile+!!!)
 
-# Hello!!!! :wave: :wave:
+## ✨ About Me
 
-I am **Shreya Shrestha** from Kathmandu Nepal. :smile::smile: 
+Hi there! I'm **Shreya**, a front-end developer from Nepal. What started as curiosity about how websites work under the hood has grown into a career I'm deeply passionate about.
 
-## Description
-:computer: I am a front-end developer with a strong understanding of HTML, CSS, CSS frameworks, JavaScript, and React, who is passionate about continuous learning of new technologies and proficient in creating responsive user interfaces.
+I thrive at the intersection of **design and code**—crafting interfaces that are both visually captivating and technically robust.
 
-:computer: I also possess knowledge of Oracle BI Publisher and SQL, enabling me to generate Excel and RTF reports.
+When I'm not coding, I'm usually exploring new tools, contributing to open-source, or leveling up my design skills.
 
-:iphone: Additionally, I have also worked on Flutter projects.
+## 🚀 Expertise
 
-:book: Studied BSc.CS at Kathmandu University, Dhulikhel Nepal.
+- **💻 Custom Web Development** — Fast, modern websites engineered to perform.
+- **📱 Responsive Design** — Looks great on every screen, every time.
+- **✨ Clean Code** — Readable, scalable TypeScript and React — built to last.
 
-:office: Worked as Software Intern at LIS Nepal.
-
-:nerd_face: I love reading novel.
-
-<br/>
-
-## :computer: Skills 
+## 🛠️ Technical Skills
 
 <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux" />
-</p>
-<p>
-    <img src="https://skillicons.dev/icons?i=tailwind,firebase,dart,flutter,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,firebase,dart,flutter,mysql" />
 </p>
 
-<br/>
-
-## :computer: Additional Skills
+## 🗄️ Additional Skills
 
 ![Oracle](https://img.shields.io/badge/Oracle-%2320232a?style=for-the-badge&logo=Oracle&logoColor=white&margin=10px)
-<br/>
-![PL/SQL](https://img.shields.io/badge/PL/SQL-%2320232a?style=for-the-badge&logo=oracle&logoColor=white) 
-<br/>
-![BI Publisher](https://img.shields.io/badge/BIPublisher-%2320232a?style=for-the-badge&logo=oracle&logoColor=white) 
-<br/>
-![OracleBusinessIntelligence](https://img.shields.io/badge/OBIEE-%2320232a?style=for-the-badge&logo=oracle&logoColor=white) 
-<br/>
-![Snowflake](https://img.shields.io/badge/Snowflake-%2320232a?style=for-the-badge&logo=snowflake&logoColor=%2361DAFB) 
+![PL/SQL](https://img.shields.io/badge/PL/SQL-%2320232a?style=for-the-badge&logo=oracle&logoColor=white)
+![BI Publisher](https://img.shields.io/badge/BIPublisher-%2320232a?style=for-the-badge&logo=oracle&logoColor=white)
+![OracleBusinessIntelligence](https://img.shields.io/badge/OBIEE-%2320232a?style=for-the-badge&logo=oracle&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-%2320232a?style=for-the-badge&logo=snowflake&logoColor=%2361DAFB)
 
-<br/>
+## 🛠️ Tools
 
-## :computer: Tools
+<p><img src="https://skillicons.dev/icons?i=vscode,git,figma" /></p>
 
-<p>
-    <img src="https://skillicons.dev/icons?i=vscode,git,figma" />
-</p>
+## 🎓 Education
 
+- 🎓 BSc.CS | Kathmandu University, Nepal
 
-<br/>
+## 📚 Interests
 
-<!-- Contact -->
+- 📖 Reading novels
+- 🎮 Gaming
 
-## Connect with me
+## 🔗 Connect With Me
 
 <p>
     <a href="https://www.linkedin.com/in/iamshreyastha/">
         <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
-</p>
-
-<br/>
-
-
-## Contact me
-<p>
-    <a href="mailto:shreyashrestha2k57@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a href="mailto:[EMAIL_ADDRESS]">
+        <img src="https://skillicons.dev/icons?i=gmail" />
     </a>
 </p>
